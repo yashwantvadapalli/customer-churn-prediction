@@ -1,0 +1,17 @@
+Packages installed (use the command below to install the following packages):
+
+!pip install pandas scikit-learn matplotlib seaborn graphviz pydotplus
+
+
+Libraries used:
+
+pandas
+scikit-learn
+matplotlib
+seaborn
+graphviz
+pydotplus
+
+
+
+
